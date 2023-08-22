@@ -1,11 +1,3 @@
-# Headline Level 1
+# Getting GitHub
 
-The quick brown fox jumps over the lazy **god**.
-
----
-
-* Item One
-* Item Two
-
-1. Thing One
-2. Thing Two
+This is a repository for the class **Getting Started with Git and GitHub**.
